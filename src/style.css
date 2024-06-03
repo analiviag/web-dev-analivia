@@ -4,6 +4,16 @@
   --secondary-color: #f5f2fe;
 }
 
+@media (max-width: 400px) {
+  h1 {
+    font-size: 20px;
+  }
+
+  p {
+    text-align: center;
+  }
+}
+
 h2,
 h1,
 h3 {
